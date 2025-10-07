@@ -4,7 +4,7 @@
   , меня зовут Иван!
 </h1>
 <h2>
-  Я молодой, амбициозный и обучаемый специалист в области информационных технологий
+  Я молодой, амбициозный и обучаемый специалист в области IT
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 </h2>
 <div align="center">
